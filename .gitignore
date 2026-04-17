@@ -1,0 +1,4 @@
+
+# Large data folders (keep locally, don't push)
+data/
+tools/
